@@ -1,0 +1,41 @@
+{
+  "id": 14,
+  "category": "game-offline",
+  "slug": "bannerlord-campaign-workbench",
+  "target": "Mount & Blade II: Bannerlord",
+  "appid": "261550",
+  "summaryRu": "Проект помощника одиночных проверок экономики отряда и прогрессии.",
+  "features": [
+    "Party economy sheets",
+    "Skill progression scenarios",
+    "Campaign backup ledger"
+  ],
+  "title": "BannerBudget — Mount & Blade II: Bannerlord — Warband",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "BannerBudget",
+  "repositoryName": "bannerbudget-bannerlord-campaign-workbench-warband",
+  "githubTopics": [
+    "mount-blade-ii-bannerlord",
+    "party-economy",
+    "skill-planning",
+    "campaign-backup",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "warband"
+}
